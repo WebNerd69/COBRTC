@@ -63,7 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [rroy64330@gmail.com](mailto:rroy64330@gmail.com)
 
-Project Link: [https://github.com/your-username/COBRTC](https://github.com/WebNerd69/COBRTC)
+Project Link: [https://github.com/WebNerd69/COBRTC](https://github.com/WebNerd69/COBRTC)
 
 ## Acknowledgements
 
