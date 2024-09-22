@@ -20,6 +20,7 @@ COBRTC (Cooch Behar Royal Tourism and Culture) is a comprehensive blog website d
 - Vite
 - HTML5
 - CSS3
+- Tailwind CSS
 - JavaScript
 - Markdown for blog post content
 
@@ -60,14 +61,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [rroy64330@gmail.com](mailto:rroy64330@gmail.com)
 
-Project Link: [https://github.com/your-username/COBRTC](https://github.com/your-username/COBRTC)
+Project Link: [https://github.com/your-username/COBRTC](https://github.com/WebNerd69/COBRTC)
 
 ## Acknowledgements
 
 - [React.js](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Markdown-it](https://github.com/markdown-it/markdown-it) (for rendering blog posts)
